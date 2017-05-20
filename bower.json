@@ -1,0 +1,21 @@
+{
+  "name": "simpleblog",
+  "authors": [
+    "Bernhard Wendel <BWendel@gmx.de>"
+  ],
+  "description": "",
+  "main": "index.php",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
