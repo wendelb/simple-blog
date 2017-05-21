@@ -1,0 +1,1 @@
+<div class="blog-pagination"><?php echo $links; ?></div>
